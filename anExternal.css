@@ -1,0 +1,42 @@
+body{
+    background-image: URL("dark_wood.png")
+}
+
+div{
+    background-color: white; 
+}
+
+p{
+    
+}
+
+#Image{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#Textwithborders{
+    border-style: dotted;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.centered {
+    font-size: 70px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#Level3image{
+    overflow:hidden;
+    float:right;
+    border-radius: 30px;
+}
